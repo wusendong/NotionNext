@@ -33,6 +33,6 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source-directory: 'out'
-        destination-github-username: 'xxxuuu'
-        destination-repository-name: 'xxxuuu.github.io'
+        destination-github-username: 'wusendong'
+        destination-repository-name: 'wusendong.github.io'
         target-branch: master

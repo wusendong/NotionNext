@@ -18,7 +18,7 @@ export const Footer = props => {
           &copy; {`${copyrightDate}`} {siteConfig('AUTHOR')}
           {' · Powered by '}
           <Link
-            href={'https://github.com/xxxuuu/NotionNext'}
+            href={'https://github.com/wusendong/NotionNext'}
             className='hover:underline text-gray-700'>
             NotionNext
           </Link>
